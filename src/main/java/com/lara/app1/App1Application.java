@@ -11,6 +11,11 @@ public class App1Application {
 	}
 	public String main(){
 		return "hello string";
+    
+    public void main(){
+		int a = 10;
+		int b = 20;
+		System.out.println(c);
 	}
 
 }
